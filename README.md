@@ -1,4 +1,5 @@
-<img width="1440" alt="Снимок экрана 2024-06-22 в 3 30 01 PM" src="https://github.com/ViktorVT221/TechPrakt2024Task0/assets/173474693/330d45e1-af95-4bcb-be47-1d347a40fea1">
+
+<img width="846" alt="Снимок экрана 2024-06-22 в 3 47 26 PM" src="https://github.com/ViktorVT221/TechPrakt2024Task0/assets/173474693/faf8beef-654e-4589-b5f1-f3e62453a824">
 
 Виконання практичної роботи передбачає вивчення прийомів роботи з системою контролю версій Git:
 
